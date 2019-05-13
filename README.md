@@ -1,1 +1,1 @@
-# magnum_opus
+# magnum-opus
